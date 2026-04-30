@@ -1,6 +1,6 @@
 Exercícios e práticas de Java desenvolvidos durante meus estudos.
 
-** Conteúdos:
+## Conteúdos:
 - Variáveis;
 - Estruturas de controle;
 - Métodos.
